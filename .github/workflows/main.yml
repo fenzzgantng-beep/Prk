@@ -5,7 +5,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: windows-2019
+    runs-on: macos-latest
     timeout-minutes: 9990
 
     steps:
