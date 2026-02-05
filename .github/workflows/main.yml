@@ -5,7 +5,7 @@ on:
 
 jobs:
   secure-rdp:
-    runs-on: windows-2025
+    runs-on: ubuntu-latest
     timeout-minutes: 9990
 
     steps:
